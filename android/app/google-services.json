@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872350794218",
+    "project_id": "tastewing-d2c1a",
+    "storage_bucket": "tastewing-d2c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872350794218:android:25148f13933470b2877293",
+        "android_client_info": {
+          "package_name": "com.example.tastewing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872350794218-sscsfn0o73ies08khc616hjkq072eci8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg55II4gIw5WXRxB5T6FNXxrjLtmCzObI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872350794218-sscsfn0o73ies08khc616hjkq072eci8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
